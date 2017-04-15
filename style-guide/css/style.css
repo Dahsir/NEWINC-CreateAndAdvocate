@@ -3,9 +3,67 @@
 }
 
 h1 {
-  color: #00FF00;
+  color: #FFFFFF;
+  font-size: 10em;
+  
+  border: 0px dotted #FFFF00;
+  margin: 0;
+  padding: 0;
 }
 
 p {
-  color: #FF6600;
+  color: ;
 }
+
+body {
+    background-color: #1100FF;
+}
+
+
+a:link{
+	color:55FF51;
+	background-color: transparent;
+	text-decoration: none; 
+
+}
+
+a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover{
+	color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+
+a:active{
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
